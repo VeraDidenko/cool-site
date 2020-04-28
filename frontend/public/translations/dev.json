@@ -1,0 +1,23 @@
+{
+    "main.topmenu.home": "Home",
+    "main.topmenu.books": "Books",
+    "main.topmenu.about": "About",
+    "main.topmenu.orders": "Orders",
+    "main.topmenu.en": "EN",
+    "main.topmenu.ua": "UA",
+    "main.home.title": "Welcome!",
+    "main.about.title": "This is a cool site!",
+    "main.form.name": "Name and Surname",
+    "main.form.name.hint": "Please enter your name and surname.",
+    "main.form.email": "Email address",
+    "main.form.email.hint": "Please enter your valid email.",
+    "main.form.phone": "Phone number",
+    "main.form.phone.hint": "Please enter your phone.",
+    "main.form.comment": "Comment",
+    "main.form.comment.hint": "Please leave a comment.",
+    "main.form.send": "Send",
+    "main.books.book": "Books",
+    "main.books.order": "Make your order",
+    "main.books.details": "Details"
+
+}

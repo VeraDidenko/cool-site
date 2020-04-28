@@ -1,0 +1,23 @@
+{
+    "main.topmenu.home": "Головна",
+    "main.topmenu.books": "Книги",
+    "main.topmenu.about": "Про нас",
+    "main.topmenu.orders": "Замовлення",
+    "main.topmenu.en": "АНГ",
+    "main.topmenu.ua": "УКР",
+    "main.home.title": "Вітаємо!",
+    "main.about.title": "Це крутий сайт!",
+    "main.form.name": "Ім'я та прізвище",
+    "main.form.name.hint": "Будь ласка введіть своє ім'я та прізвище",
+    "main.form.email": "Електронна пошта",
+    "main.form.email.hint": "Будь ласка введіть існуючу електронну пошту",
+    "main.form.phone": "Номер телефону",
+    "main.form.phone.hint": "Будь ласка введіть свій номер телефону",
+    "main.form.comment": "Комментар",
+    "main.form.comment.hint": "Будь ласка залиште комментар",
+    "main.form.send": "Відправити",
+    "main.books.book": "Книги",
+    "main.books.order": "Зробити замовлення",
+    "main.books.details": "Детальніше..."
+
+}

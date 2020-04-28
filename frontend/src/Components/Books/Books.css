@@ -1,0 +1,57 @@
+.Books {
+    text-align: center;
+  }
+  
+  .Books-header {
+    padding-top: 150px;
+    padding-bottom: 20px;
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: #b0ae8f;
+  }
+  
+  .Books-link {
+    color: #61dafb;
+  }
+
+  .form-group {
+    text-align: left;
+    font-style: italic;
+    font-size: 14px;
+    color: #ffc107;
+}
+
+.form-control {
+  color: #495057;
+  background-color: #c2c19d !important;
+  border: 1px solid  #c2c19d !important;
+}
+
+.form-control:focus {
+  color: #495057;
+  background-color: #c2c19d !important;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem #c2c19d !important;
+}
+
+.fixed-form{
+  border: 1px solid  #c2c19d !important;
+  border-radius: 4px;
+  padding: 20px !important;
+
+}
+
+.author{
+  font-style: italic !important;
+  font-size: 18px;
+}
+
+.title{
+  margin: 0 !important;
+  color: #fffcc6 !important;
+}
